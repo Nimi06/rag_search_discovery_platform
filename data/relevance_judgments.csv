@@ -1,0 +1,7 @@
+query,doc_id,relevant
+How do we monitor model drift?,model_monitoring,1
+How do we monitor model drift?,mlops_lifecycle,1
+What is the process for incident response?,security_incident_response,1
+How should customer data be protected?,customer_data_governance,1
+What are the steps in the ML deployment lifecycle?,mlops_lifecycle,1
+Which metrics evaluate search ranking quality?,search_relevance,1
